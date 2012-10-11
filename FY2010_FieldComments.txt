@@ -1,0 +1,80 @@
+DATA_FILE|FIELD|COMMENT
+FY2010_CommittedFRNs_Block4_Data|FUNDING_YEAR|Funding years run July 1 of the year named through June 30 of the following year
+FY2010_CommittedFRNs_Block4_Data|F471_APPLICATION_NUMBER|Unique number assigned to identify FCC Form 471 application
+FY2010_CommittedFRNs_Block4_Data|FRN|Unique number assigned by system to identify individual funding requests on an FCC Form 471
+FY2010_CommittedFRNs_Block4_Data|BLOCK5_ITEM22|Can be either a single entity or a Block 4 worksheet number
+FY2010_CommittedFRNs_Block4_Data|ENTITY_RECEIVING_SRVC_NUMBER|Block 4 recipient of service entity number
+FY2010_CommittedFRNs_Block4_Data|ENTITY_RECEIVING_SRVC_NAME|Block 4 recipient of service entity name
+FY2010_CommittedFRNs_Block4_Data|ENTITY_RECEIVING_SRVC_TYPE|Block 4 recipient of service entity type
+FY2010_CommittedFRNs_Block4_Data|NCES_CODE|Data reported by applicant and unverified
+FY2010_CommittedFRNs_Block4_Data|RURAL_URBAN_STATUS|Status determined by 1990 Census data and Goldsmith modifications
+FY2010_CommittedFRNs_Block4_Data|STUDENT_COUNT|Blank for libraries
+FY2010_CommittedFRNs_Block4_Data|STUDENT_NSLP_COUNT|Number of students eligible either free or reduced priced meals through the National School Lunch Program
+FY2010_CommittedFRNs_Block4_Data|NSLP_ELIGIBLE_PERCENT|
+FY2010_CommittedFRNs_Block4_Data|DISCOUNT_PERCENTAGE|Eligible discount rate taken from discount matrix
+FY2010_CommittedFRNs_Block4_Data|WEIGHTED_PRODUCT|
+FY2010_CommittedFRNs_Block4_Data|PREK_ADULTED_JUVENILE_IND|Indicator reported by applicant that non-traditional students are included
+FY2010_CommittedFRNs_Block4_Data|ALT_DISCOUNT_MECHANISM_IND|Indicator reported by applicant that alternative discount mechanism were used including surveys
+
+OPENDATA_FY2010|F471_APPLICATION_NUMBER|
+OPENDATA_FY2010|FRN|Unique number assigned by system to identify individual funding requests on an FCC Form 471
+OPENDATA_FY2010|APPLICANT_NAME|
+OPENDATA_FY2010|APPLICATION_TYPE|Type of entity applying for services including school, school district, library, consortium
+OPENDATA_FY2010|APPLICANT_STATE|
+OPENDATA_FY2010|APPLICANT_STREET_ADDRESS1|
+OPENDATA_FY2010|APPLICANT_STREET_ADDRESS2|
+OPENDATA_FY2010|APPLICANT_CITY|
+OPENDATA_FY2010|APPLICANT_ZIP_CODE|
+OPENDATA_FY2010|SPIN|Unique number assigned by USAC to identify individual service providers
+OPENDATA_FY2010|SERVICE_PROVIDER_NAME|
+OPENDATA_FY2010|APPEALS_IND|Indicator to flag FRNs with a current appeal at USAC
+OPENDATA_FY2010|COMMITMENT_STATUS|
+OPENDATA_FY2010|F486_SSD|Service Start Date as reported by applicant on FCC Form 486
+OPENDATA_FY2010|CANCELLED_DATE_OF_471|Date of FCC Form 471 cancellations
+OPENDATA_FY2010|FUNDING_YEAR|Funding years run July 1 of the year named through June 30 of the following year
+OPENDATA_FY2010|FCDL_DATE|Date of the Funding Commitment Decision Letter
+OPENDATA_FY2010|ORIG_R_MONTHLY_COST|Recurring total monthly cost as reported by the applicant
+OPENDATA_FY2010|ORIG_R_INELIGIBLE_COST|Recurring monthly ineligible cost as reported by the applicant
+OPENDATA_FY2010|ORIG_ELIGIBLE_MONTHLY_COST|Recurring monthly eligible cost as reported by the applicant
+OPENDATA_FY2010|ORIG_MONTHS_OF_SERVICE|Months of service as reporteed by the applicant
+OPENDATA_FY2010|ORIG_ANNUAL_R_COST|Total annual recurring cost as reported by the applicant
+OPENDATA_FY2010|ORIG_TOTAL_NR_COST|Total non-recurring cost as reported by the applicant
+OPENDATA_FY2010|ORIG_NR_INELIGIBLE_COST|Total non-recurring ineligible cost as reported by applicant
+OPENDATA_FY2010|ORIG_ESTIMATETOTAL_NR_COST|Total non-recurring cost as reported by the applicant
+OPENDATA_FY2010|ORIG_TOTAL_COST|Total eligible cost as reported by the applicant
+OPENDATA_FY2010|ORIG_DISCOUNT|Discount rate requested by the applicant 
+OPENDATA_FY2010|ORIG_COMMITMENT_REQUEST|Total requested amount
+OPENDATA_FY2010|COMMITTED_AMOUNT|Total committed amount
+OPENDATA_FY2010|COMMITTED_R_MONTHLY_COST|Monthly recurring amount as committed
+OPENDATA_FY2010|CMTD_R_INELIGIBLE_COST|Monthly recurring ineligible cost as committed
+OPENDATA_FY2010|COMM_R_ELIGIBLE_COST|Monthly recurring eligible cost as committed
+OPENDATA_FY2010|CMTD_R_MONTHS_OF_SERVICE|Number of months of service as committed 
+OPENDATA_FY2010|COMM_R_ANNUAL_COST|Total recurring cost as committed
+OPENDATA_FY2010|COMM_COST|Committed amount
+OPENDATA_FY2010|COMM_NR_INELIGIBLE_COST|Committed one-time cost 
+OPENDATA_FY2010|COMM_NR_ELIGIBLE_COST|Committed one-time eligible cost
+OPENDATA_FY2010|CMTD_TOTAL_COST|Total cost as committed
+OPENDATA_FY2010|CMTD_DISCOUNT|Approved discount rate
+OPENDATA_FY2010|CMTD_COMMITMENT_REQUEST|Total eligible cost as committed
+OPENDATA_FY2010|ORG_471_SSD|Service start date as reported by the applicant on the FCC Form 471
+OPENDATA_FY2010|ORIG_SERVICE_END_DATE_471|Service end date as reported by the applicant on the FCC Form 471
+OPENDATA_FY2010|CMTD_471_SSD|Service Start Date on FCC Form 471 after adjustments by USAC
+OPENDATA_FY2010|COMM_SERVICE_END_DATE_471|Service End Date on FCC Form 471 as committed
+OPENDATA_FY2010|BEN|Billed Entity Number
+OPENDATA_FY2010|ORIG_CATEGORY_OF_SERVICE|Category of service as requested by applicant
+OPENDATA_FY2010|COMM_CATEGORY_OF_SERVICE|Category of service as committed
+OPENDATA_FY2010|TOTAL_AUTHORIZED_DISBUSEMENT|Total amount authorized for disbursement on a single FRN
+OPENDATA_FY2010|F470_APPLICATION_NUMBER|FCC Form 471 application number indicated in FRN
+OPENDATA_FY2010|INVOICING_MODE|BEAR or SPI
+OPENDATA_FY2010|WAVE_NUMBER|Commitment Wave Number
+OPENDATA_FY2010|CONTRACT_EXPIRATION_DATE|As indicated by applicant
+OPENDATA_FY2010|LAST_DATE_TO_INVOICE|System calculated
+OPENDATA_FY2010|SITE_IDENTIFIER|
+OPENDATA_FY2010|RURAL_INDICATOR|Based on 1990 census data and Goldsmith modifications
+OPENDATA_FY2010|STUDENT_COUNT|Will be blank for libraries
+OPENDATA_FY2010|PATRON_COUNT|Will be blank for schools
+OPENDATA_FY2010|APPEALS_WAVE_NUMBER|If applicable
+OPENDATA_FY2010|F471_APPLICATION_STATUS|
+OPENDATA_FY2010|CERTIFICATION_RECEIVED_DATE|FCC Form 471 certification received date
+OPENDATA_FY2010|F470_FORM_STATUS|
+OPENDATA_FY2010|FCDL_COMMENT|Null when approved as submitted
